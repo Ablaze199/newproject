@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\web page design"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "edu university"
+	}
+}
